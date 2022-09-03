@@ -2,7 +2,7 @@
 
 **Note: zdiscord v7 and high REQUIRE FiveM artifacts build 4890 or newer**<br>
 zdiscord v5-6 REQUIRES artifacts 4800 or newer.<br>
-Older artifacts will require use of the [v4 eris branch](https://github.com/Manshy0/zdiscord/tree/eris) instead.
+Older artifacts will require use of the [v4 eris branch](https://github.com/Manshy0/zdiscord) instead.
 
 [Setup](#setup) | [Donate](#donate) | [FAQ](https://github.com/Manshy0/zdiscord/faq) | [Support](#support) | [Docs](https://github.com/Manshy0/zdiscord)
 
