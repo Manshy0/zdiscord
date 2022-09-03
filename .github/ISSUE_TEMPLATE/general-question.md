@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Before submitting your question have you checked the check the [FAQ](https://github.com/zfbx/zdiscord/wiki) or checked for similar issues already?: [yes/no]
+Before submitting your question have you checked the check the [FAQ](https://github.com/Manshy0/zdiscord/wiki) or checked for similar issues already?: [yes/no]
 
 **Question:**
 Describe your question..

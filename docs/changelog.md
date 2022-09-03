@@ -65,7 +65,7 @@
 
 - added screenshot command
 - added weather, blackout, time commands
-- added docs at [zfbx.github.io/zdiscord](https://zfbx.github.io/zdiscord)
+- added docs at [zfbx.github.io/zdiscord](https://github.com/Manshy0/zdiscord)
 - updated/fixed chat events and teleport command
 
 **5.0.1 - Exports and ace perms [2021-10-20]**
@@ -95,7 +95,7 @@
 
 **3.2.0 - Convars everywhere! [2021-7-24]**
 
-- Convar hooks added for nearly every config option [Read More](https://github.com/zfbx/zdiscord/wiki/Convars)
+- Convar hooks added for nearly every config option [Read More](https://github.com/Manshy0/zdiscord/wiki/Convars)
 - Slimmed up locales by removing console log messages
 - Added {prefix} to the global variables
 - New Add/Remove permissions command for QBCore

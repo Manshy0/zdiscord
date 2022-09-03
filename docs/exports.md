@@ -1,6 +1,6 @@
 # Exports
 
-If you have other resources that you wish to be able to use information available in zdiscord, you might just be in luck. Here is a list of all the available exports for zdiscord and samples of how to use them in javascript or lua. If you don't see something you want here [submit a feature request](https://github.com/zfbx/zdiscord/issues/new/choose) or [pull request](https://github.com/zfbx/zdiscord/pulls)
+If you have other resources that you wish to be able to use information available in zdiscord, you might just be in luck. Here is a list of all the available exports for zdiscord and samples of how to use them in javascript or lua. If you don't see something you want here [submit a feature request](https://github.com/Manshy0/zdiscord/issues/new/choose) or [pull request](https://github.com/Manshy0/zdiscord/pulls)
 
 #### Table of Contents
 - [isRolePresent](#isrolepresent)

@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Here's a list of common problems people have run into and how to solve them. If you are having a problem that isn't listed here, check the [readme](https://github.com/zfbx/zdiscord/blob/djs/readme.md) and if there's still nothing submit an [issue](https://github.com/zfbx/zdiscord/issues) if it doesn't already exist there.
+Here's a list of common problems people have run into and how to solve them. If you are having a problem that isn't listed here, check the [readme](https://github.com/Manshy0/zdiscord/blob/djs/readme.md) and if there's still nothing submit an [issue](https://github.com/Manshy0/zdiscord/issues) if it doesn't already exist there.
 
 #### Table of Contents:
 

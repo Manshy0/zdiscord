@@ -43,8 +43,8 @@ These guidelines will help you help us in the best way possible regardless of yo
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-* [Website](https://zfbx.github.io/zdiscord)
-* [Discord](https://discord.gg/M6neBU3cvP)
+* [Website](https://github.com/Manshy0/zdiscord)
+* [Discord](https://discord.gg/AXx6HZwN22)
 
 
 
@@ -64,8 +64,8 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 #### Before Submitting A Bug Report
 
 * **Check the docs** There's a chance what you see as a bug might just work differently than you expect and if you think it could work better consider a feature enhancement report instead.
-* **Search the [discord](https://discord.gg/M6neBU3cvP)** to see if anyone else has run into the issue and see if it was solved through user error or code changes. (if the code change isn't pending a PR and you know what you're doing consider submitting one following [Pull Requests](#pull-requests) )
-* **Perform a [cursory search](https://github.com/zfbx/zdiscord/search?type=issues)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+* **Search the [discord](https://discord.gg/AXx6HZwN22)** to see if anyone else has run into the issue and see if it was solved through user error or code changes. (if the code change isn't pending a PR and you know what you're doing consider submitting one following [Pull Requests](#pull-requests) )
+* **Perform a [cursory search](https://github.com/Manshy0/zdiscord/search?type=issues)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 
 #### How Do I Submit A (Good) Bug Report?
@@ -108,7 +108,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 * **Make sure it doesn't already exist.** Sounds silly, but there's a lot of features built in to zdiscord that people might not realize so take a look through the docs and stuff to make sure it's not already there.
 * **Check if there's already PR which provides that enhancement.**
-* **Perform a [cursory search](https://github.com/zfbx/zdiscord/search?type=issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+* **Perform a [cursory search](https://github.com/Manshy0/zdiscord/search?type=issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 * **Determine if it fits the project.** if it doesn't make sense in zdiscord, might be better to create a new resource that hooks zdiscord through exports.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?

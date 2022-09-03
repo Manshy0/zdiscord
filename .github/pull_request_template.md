@@ -6,4 +6,4 @@ If your PR is to fix an issue mention that issue here
 
 **Questions (please complete the following information):**
 - You have personally tested this feature in all of it's ability and tried to break it? [yes/no] (Be honest)
-- Does your PR fit the [contribution guidelines](https://zfbx.github.io/zdiscord/contributing)? [yes/no]
+- Does your PR fit the [contribution guidelines](https://github.com/Manshy0/zdiscord/contributing)? [yes/no]

@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zfbx/zdiscord.git"
+    "url": "git+https://github.com/Manshy0/zdiscord.git"
   },
-  "author": "Tony#1275",
+  "author": "!                    MANSHY#5555",
   "contributors": [
-    "zfbx (https://github.com/zfbx/)"
+    "zfbx (https://github.com/Manshy0)"
   ],
   "license": "CC-BY-NC-SA-4.0",
   "bugs": {
-    "url": "https://github.com/zfbx/zdiscord/issues"
+    "url": "https://github.com/Manshy0/zdiscord/issues"
   },
-  "homepage": "https://github.com/zfbx/zdiscord",
+  "homepage": "https://github.com/Manshy0/zdiscord",
   "dependencies": {
     "discord.js": "github:zfbx/discord.js"
   },

@@ -1,6 +1,6 @@
 # Config
 
-Not sure what a config value means? You're in the right place, here we'll go over every config option available for zdiscord and what it means and expects. **If you haven't already, please read the setup guide in the [read me](https://github.com/zfbx/zdiscord/blob/djs/readme.md#setup) first.**
+Not sure what a config value means? You're in the right place, here we'll go over every config option available for zdiscord and what it means and expects. **If you haven't already, please read the setup guide in the [read me](https://github.com/Manshy0/zdiscord/blob/djs/readme.md#setup) first.**
 
 **NOTE:** All config values use strings (wrapped in `" "`) for their values. This is done for convar support.
 
@@ -92,7 +92,7 @@ If this is set to `"true"` the bot will register all it's slash commands to the 
 
 ### DiscordModRoleId
 **[ Convar: `discord_mod_role` ]**<br>
-This is a single discord role ID that will be permitted to use commands set to role `"mod"`. this can only be a single role unlike [DiscordWhitelistRoleIds](#DiscordWhitelistRoleIds). You can add other roles but you'll have to follow the [guide](https://zfbx.github.io/zdiscord/commands#add-permission-levels). You can get the role ID in the same way described under [DiscordWhitelistRoleIds](#DiscordWhitelistRoleIds)
+This is a single discord role ID that will be permitted to use commands set to role `"mod"`. this can only be a single role unlike [DiscordWhitelistRoleIds](#DiscordWhitelistRoleIds). You can add other roles but you'll have to follow the [guide](https://github.com/Manshy0/zdiscord/commands#add-permission-levels). You can get the role ID in the same way described under [DiscordWhitelistRoleIds](#DiscordWhitelistRoleIds)
 
 ### DiscordAdminRoleId
 **[ Convar: `discord_admin_role` ]**<br>

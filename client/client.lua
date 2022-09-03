@@ -1,7 +1,7 @@
 --[[
  - This file is part of zdiscord.
  - Copyright (C) 2021 Manshy
- - source: <https://github.com/zfbx/zdiscord>
+ - source: <https://github.com/Manshy0/zdiscord>
  -
  - This work is licensed under the Creative Commons
  - Attribution-NonCommercial-ShareAlike 4.0 International License.

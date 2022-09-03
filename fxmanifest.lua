@@ -1,7 +1,7 @@
 --[[
  - This file is part of zdiscord.
  - Copyright (C) 2021 
- - source: <https://github.com/zfbx/zdiscord>
+ - source: <https://github.com/Manshy0/zdiscord>
  -
  - This work is licensed under the Creative Commons
  - Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -14,7 +14,7 @@ games { "gta5" }
 
 author "zfbx"
 description "Discord bot allowlist and more"
-repository "https://github.com/zfbx/zdiscord"
+repository "https://github.com/Manshy0/zdiscord"
 version "7.3.0"
 license "CC-BY-NC-SA-4.0"
 lua54 'yes'
