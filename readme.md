@@ -66,7 +66,7 @@ If you have any errors or problems please first check:
 - [Frequently Asked Questions](https://zfbx.github.io/zdiscord/faq)
 - [Github Issues](https://github.com/zfbx/zdiscord/issues?q=)
 
-If neither of those solve your problem [Open a ticket](https://github.com/zfbx/zdiscord/issues/new/choose) or message me on [Discord](https://discord.gg/M6neBU3cvP) (My name is Tony#1275 on discord)
+If neither of those solve your problem [Open a ticket](https://discord.com/channels/542550579860340736/811682872917622814) or message me on [Discord](https://discord.gg/AXx6HZwN22) (My name is !                    MANSHY#5555 on discord)
 
 
 ## Donate
